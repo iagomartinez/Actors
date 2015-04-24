@@ -1,0 +1,4 @@
+Actors/bin/
+*.suo
+Actors/obj/Debug/
+packages/
